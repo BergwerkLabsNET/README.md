@@ -9,8 +9,6 @@
   <li>JavaScript</li>
   <li>HTML/CSS</li>
   <li>Java</li>
-  <li>MongoDB</li>
-  <li>Redis</li>
 </ul>
 
 <h2>📫 Get in Touch</h2>
