@@ -13,7 +13,5 @@
   <li>Redis</li>
 </ul>
 
-<h2>📊 GitHub Stats</h2>
-
 <h2>📫 Get in Touch</h2>
 <p>For collaboration or inquiries, feel free to reach out to us via <a href="mailto:support@bergwerklabs.net">email</a>.</p>
